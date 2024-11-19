@@ -14,6 +14,7 @@ Project desciption:
 
 Navigating this repo:
 * `code` folder : Contains all code related to the development phase of this project.
+* `dataset` folder : Contains the dataset used in the project which can also be accessed via the link within the related project materials section below.
       
 Related project materials:
 * Informative Links:
