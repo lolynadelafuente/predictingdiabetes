@@ -17,6 +17,6 @@ Navigating this repo:
       
 Related project materials:
 * Informative Links:
-        * [Dataset] (https://www.kaggle.com/datasets/vikasukani/diabetes-data-set) 
+    * [Dataset](https://www.kaggle.com/datasets/vikasukani/diabetes-data-set) 
 * Links to decks:
-    * 20241118: [Project Pitch Deck] (https://docs.google.com/presentation/d/1MCiyh3Cd5OER9rGEt8SsUwtHEX-Fca170ZOqqZsC2X8/edit?usp=sharing)
+    * 20241118: [Project Pitch Deck](https://docs.google.com/presentation/d/1MCiyh3Cd5OER9rGEt8SsUwtHEX-Fca170ZOqqZsC2X8/edit?usp=sharing)
