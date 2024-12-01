@@ -1,6 +1,4 @@
-This folder contains the code developed for the project.
-
-This Python notebook divides in 5 headers:
+This folder contains the Python notebook developed for the project which is divided in 5 headers:
 1) Exploratory Data Analysis (EDA)
    - Contains data loading and inspection and a few quick visuals. 
 2) Data Pre-processing
