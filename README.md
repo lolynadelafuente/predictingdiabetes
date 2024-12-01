@@ -1,6 +1,6 @@
 # Predicting Diabetes
 
-Contacts:
+Contact:
 * Lolyna de la Fuente Ordaz
 * dlf.loly@gmail.com
 
