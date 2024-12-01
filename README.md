@@ -6,7 +6,7 @@ Contact:
 
 Status: Completed
 
-Project desciption:
+Project description:
 * The rate of diabetes is rapidly increasing worldwide. Early detection of diabetes can help prevent or delay the onset of diabetes by initiating lifestyle changes and taking appropriate preventive measures.
 * Since Prediabetes and type 2 diabetes have proved to be early detection problems, there is a need for easy, rapid, and accurate diagnostic tools for the early diagnosis of this disease. What we hope to achieve in this project is that we can help detect diabetes early with the use of an Exploratory Data Analysis and the Random Forest Classifier, a Machine Learning Algorithm.
 * Exploratory data analysis on the data showed a low correlation between all variables to our outcome variable, so we chose to use a machine learning model that can handle various features.
